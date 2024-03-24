@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSA.App", "TSA.App\TSA.App.csproj", "{944B1212-A0B8-4633-A852-59009037FE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSA.Service", "TSA.Service\TSA.Service.csproj", "{D194197A-84A5-4D8D-83A7-A36B67C82EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSA.Model", "TSA.Model\TSA.Model.csproj", "{E6A6E587-91E5-4D22-998F-FA1A8729FA36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944B1212-A0B8-4633-A852-59009037FE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944B1212-A0B8-4633-A852-59009037FE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944B1212-A0B8-4633-A852-59009037FE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944B1212-A0B8-4633-A852-59009037FE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D194197A-84A5-4D8D-83A7-A36B67C82EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D194197A-84A5-4D8D-83A7-A36B67C82EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D194197A-84A5-4D8D-83A7-A36B67C82EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D194197A-84A5-4D8D-83A7-A36B67C82EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A6E587-91E5-4D22-998F-FA1A8729FA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A6E587-91E5-4D22-998F-FA1A8729FA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A6E587-91E5-4D22-998F-FA1A8729FA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A6E587-91E5-4D22-998F-FA1A8729FA36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC7CFAC-884B-4992-BDF7-CFC6103AF0A3}
+	EndGlobalSection
+EndGlobal
